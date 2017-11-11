@@ -1,0 +1,24 @@
+------------
+STOP SOMETHING WENT WRONG
+check: person1
+grade:0, deduction:0
+------------
+person3: 51.0
+1) comment (-10.0pts)
+2) comment (-10.0pts)
+3) comments (-5.0pts)
+4.a) commmenting (-3.0pts)
+7.a) forcomments (-1.0pts)
+
+foo
+bla@bu.edu
+------------
+person4: 80.5
+2) be a comment (-2.5pts)
+3) so what (-2.5pts)
+7.c) didn't pass error test (-2.5pts)
+Used LaTeX +8pts 
+
+foo
+bla@bu.edu
+------------
